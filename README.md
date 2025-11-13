@@ -31,9 +31,10 @@ Python, Flask, requests.
 
 1) Clone the repository: git clone ...
 2) Open a console in the root project
-3) Write down: python app.py and press Enter
-4) The application will start running on 127.0.0.1:5000
-5) To verify if the app works fine, in your browser write:
+3) Write down: pip install -r requirements.txt to install the libraries
+4) Write down: python app.py and press Enter
+5) The application will start running on 127.0.0.1:5000
+6) To verify if the app works fine, in your browser type:
    #### https://127.0.0.1:5000/closest_coffee_shops?x=47.6&y=-122.4
-6) Instead of those X and Y, you can enter any coordinates
+7) Instead of those X and Y, you can enter any coordinates
 
