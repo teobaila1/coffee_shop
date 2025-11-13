@@ -1,4 +1,4 @@
-# Coffee shops API Overview
+# Coffee Shops API Overview
 
 This is a REST API short application that receives some user coordinates and returns a
 list of the three closest coffee shops, from the closest to the furthest.
